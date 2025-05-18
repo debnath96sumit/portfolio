@@ -7,7 +7,7 @@ const Work = ({isDarkMode}) => {
         <div id='work' className='w-full px-[12%] py-10 scroll-mt-20'>
             <h4 className='text-center mb-2 text-lg font-Ovo'>My portfolio</h4>
             <h2 className=' text-center text-5xl font-Ovo'>My latest work</h2>
-            <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum libero non exercitationem nesciunt numquam suscipit, animi culpa aut eos dicta, temporibus voluptate, laudantium veritatis nobis.</p>
+            <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo' >Here are some of the projects I've worked on:</p>
 
             <div className='grid-auto-fit my-10 gap-5 dark:text-black' >
                 {workData.map((project, index) => (

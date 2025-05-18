@@ -36,7 +36,7 @@ const About = ({isDarkMode}) => {
                  whileInView={{opacity:1}}
                  transition={{duration: 0.9, delay:0.8}}
                 className='flex-1'>
-                    <p className='mb-10 max-x-2xl font-Ovo'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, sapiente porro perferendis id, omnis nihil totam blanditiis ipsa accusamus praesentium aut dicta temporibus culpa consequatur asperiores, repellat suscipit hic voluptates quae? Illo voluptas aliquid unde quaerat voluptatem sed excepturi minima, ipsum voluptatum autem totam esse ea quas nesciunt numquam fuga?</p>
+                    <p className='mb-10 max-x-2xl font-Ovo'>I'm a passionate backend developer based in Kolkata with a strong foundation in building scalable and efficient web applications. With expertise in technologies like Node.js, Express, and TypeScript, I focus on creating robust solutions that drive seamless user experiences. I'm always eager to learn new technologies, refine my skills, and stay updated with industry best practices to deliver top-notch solutions.</p>
 
                     <motion.ul 
                      initial={{opacity:0}}

@@ -29,7 +29,7 @@ const Header = ({isDarkMode}) => {
                 whileInView={{ opacity: 1}}
                 transition={{duration: 0.6, delay: 0.7}}
             className='max-w-2xl mx-auto font-Ovo'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga totam id ratione repudiandae perspiciatis iure eius exercitationem ipsum explicabo illo!
+                I'm a passionate backend developer based in Kolkata with a strong foundation in building scalable and efficient web applications.
             </motion.p>
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
                 <motion.a
